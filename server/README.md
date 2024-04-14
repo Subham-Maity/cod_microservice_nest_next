@@ -15,3 +15,5 @@
 `pnpm i @apollo/gateway @apollo/subgraph @nestjs/apollo @nestjs/graphql graphql class-validator bcrypt @types/bcrypt`
 
 `pnpm i express`
+
+`npm run start:dev users`
